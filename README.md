@@ -33,8 +33,8 @@
 #
 #
 #
-# username:Yasin Arafat Ajad
-# password:Tama Bangali
+#username:Yasin Arafat Ajad
+#password:Tama Bangali
 
 
 
