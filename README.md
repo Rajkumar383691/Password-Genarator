@@ -14,6 +14,8 @@
 # pkg install git
 
 # git clone https://github.com/Rajkumar383691/Password-Genarator
+#
+#
 
 
 
@@ -28,7 +30,11 @@
 # python P_G.py
 
 
-
+#
+#
+#
+# username:Yasin Arafat Ajad
+# password:Tama Bangali
 
 
 
